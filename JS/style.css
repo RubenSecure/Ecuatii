@@ -1,0 +1,20 @@
+h1{
+    color: green;
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+
+button{
+    color: green;
+    position: relative;
+    left: 30%;
+    top: 5cm;
+    width: 15cm;
+    height: 10cm;
+    font-size: 4cm;
+    background-color: white;
+    border-color: green;
+}
